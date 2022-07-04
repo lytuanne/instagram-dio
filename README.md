@@ -1,1 +1,1 @@
-Interface de login do Instagram! 
+Interface de login do Instagram.
